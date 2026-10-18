@@ -32,3 +32,5 @@ Bu projenin tasarımında, algoritma yapısının kurgulanmasında ve dokümanta
 1. **Programlama Temelleri** - *Milli Eğitim Bakanlığı Yayınları 10942
 2. **Ahilik Kültürü ve Meslek Etiği İlkeleri** - *Yazılım Etiği ve Açık Kaynak Lisanslama Standartları Reference Guide*.
 3. **GitHub Documentation** - *About READMEs and Repository Documentation*, [https://docs.github.com/](https://docs.github.com/).
+
+![Şema Açıklaması](dinamik_karsilama.png)
