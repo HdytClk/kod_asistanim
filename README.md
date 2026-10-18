@@ -4,7 +4,8 @@ Proje Yazarı: HÇ
 
 # Projenin Adı: Kod-Asistan v0.1
 
-## Projenin Amacı: Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
+## Projenin Amacı: 
+Kullanıcılara günlük işlerinde (hesaplama, selamlama vb.) yardımcı olacak bir dijital asistan tasarlamak
 
 ## Projenin Hedefleri
 Bu asistanın ilerleyen zamanlarda kazanacağı özellikler şunlardır:
@@ -12,7 +13,7 @@ Bu asistanın ilerleyen zamanlarda kazanacağı özellikler şunlardır:
 * **v2.0:** Veri saklama ve geçmişi hatırda tutma özellikleri
 * **v3.0:** Gelişmiş doğal dil işleme yetenekleri
 
-## Projenin Kapsamı ve Kritik Eşik Mantığı
+## Projenin Kapsamı
 Proje kapsamında kullanıcı girdilerini değerlendiren ve belirli sınırları kontrol eden **Kritik Eşik** sözde kod mantığı metinsel olarak aşağıda yer almaktadır:
 
 > **KRİTİK EŞİK Sözde Kod Mantığı:**
@@ -26,6 +27,10 @@ Proje kapsamında kullanıcı girdilerini değerlendiren ve belirli sınırları
 >    * "Normal seviyedesiniz, tehlike yok." mesajı yazdır.
 > 6. BİTİR
 
+## Projenin Görseli
+![Dinamik Karşılama](dinamik_karsilama.png)
+
+
 ## Kaynakça
 Bu projenin tasarımında, algoritma yapısının kurgulanmasında ve dokümantasyon standartlarında aşağıdaki kaynaklardan yararlanılmıştır:
 
@@ -33,4 +38,4 @@ Bu projenin tasarımında, algoritma yapısının kurgulanmasında ve dokümanta
 2. **Ahilik Kültürü ve Meslek Etiği İlkeleri** - *Yazılım Etiği ve Açık Kaynak Lisanslama Standartları Reference Guide*.
 3. **GitHub Documentation** - *About READMEs and Repository Documentation*, [https://docs.github.com/](https://docs.github.com/).
 
-![Şema Açıklaması](dinamik_karsilama.png)
+
